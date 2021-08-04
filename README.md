@@ -2,6 +2,7 @@
 Generation of poetry in Dante's Divine Comedy style through Deep Learning techniques.
 
 ## How to run
-* Create a folder named `Deep Comedy` on [Google Colab](https://colab.research.google.com/).
+* Create a folder named `Deep Comedy` on your Google Drive.
 * Copy the content of this repository into the folder.
-* Run notebooks [`syllabification.ipynb`](syllabification.ipynb) and [`generation.ipynb`](generation.ipynb). A GPU runtime environment is advised.
+* Open notebooks [`syllabification.ipynb`](syllabification.ipynb) and [`generation.ipynb`](generation.ipynb) with Google Colaboratory.
+* Run the notebooks in a GPU environment (not mandatory, but recommended).
